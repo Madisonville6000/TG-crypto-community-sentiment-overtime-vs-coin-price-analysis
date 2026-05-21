@@ -62,5 +62,4 @@ Community sentiment vs WikiCat price movement over time:
 ## Author
 Built by Unwana Umana (Madisonville6000) as part of a growing Web3/Data Intelligence portfolio.
 
-## Author
-Built by Amos Saidu as part of a growing Web3/Data Intelligence portfolio.
+
