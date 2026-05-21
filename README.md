@@ -38,7 +38,7 @@ This demonstrates how community engagement may influence or reflect speculative 
 
 ## Future Improvements
 - Whale wallet tracking
-- TON wallet analytics
+- Dex (TON, Pi & PN) wallet analytics
 - Telegram bot integration
 - Predictive machine learning models
 - Real-time community monitoring dashboard
